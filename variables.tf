@@ -33,7 +33,7 @@ variable "management_cidr" {
 variable "allow_ip" {
   type        = string
   description = "allow IP"
-  default     = "24.242.249.105"
+  default     = "24.24.24.24"
 }
 
 variable "scopes_fw" {
